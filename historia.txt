@@ -1,1 +1,3 @@
-esta es una prueba
+Historia de un archivo en Git
+
+Sebastian miranda tiene 22 años y es de colombia.
