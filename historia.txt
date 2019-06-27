@@ -3,3 +3,5 @@ Historia de un archivo en Git
 Sebastian miranda tiene 22 años y es de colombia.
 
 Hoy hablaremos de su historia y de sus aventuras
+
+quiero hacer una prueba, pero no se como se hace.
