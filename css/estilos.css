@@ -11,11 +11,39 @@ body {
 .container {
     width: 70%;
     margin: 10px auto;
-    padding: 1em;
     text-align: left;
     box-shadow: 0px 0px 5px 0px #000;
 }
 
+.container header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+    align-items: center;
+    background: #279AF1;
+    color: #fff;
+    box-shadow: 0px 5px 10px 0px #969196;
+}
+
+.container header h4 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.container header a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+}
+
+.container header a span{
+    color: #04F06A;
+    font-weight: bold;
+}
+
+.container .post {
+    padding: 1em;
+}
 .container .post h2 {
     font-size: 20px;
 }
